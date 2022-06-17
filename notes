@@ -1,0 +1,2 @@
+objdump -s -d HelloWorld.o 
+objdump -s -d HelloWorld.o -M no-aliases
